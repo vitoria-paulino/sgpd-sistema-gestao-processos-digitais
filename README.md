@@ -43,6 +43,12 @@ A modelagem BPMN representa o fluxo do processo analisado no projeto.
 
 [Visualizar BPMN do processo](./BPMN_Gestao_Processos.pdf)
 
+### UML
+
+Foram utilizados diagramas UML para representar as funcionalidades e a estrutura do sistema.
+
+[Visualizar diagramas UML](./UML_SGPD.pdf)
+
 Entre os artefatos desenvolvidos estão:
 
 * Modelagem BPMN
