@@ -22,7 +22,7 @@ Foi estruturada uma solução integrada para o gerenciamento dos processos, cons
 
 O projeto foi desenvolvido a partir do levantamento e organização dos requisitos, modelagem dos processos e criação de protótipos da solução.
 
-## Conhecimentos aplicados
+## Tecnologias e conhecimentos utilizados
 
 * Engenharia de Software
 * Análise de Requisitos
@@ -30,7 +30,7 @@ O projeto foi desenvolvido a partir do levantamento e organização dos requisit
 * UML
 * Prototipação de Sistemas
 * Análise e Modelagem de Processos
-* figma 
+* Figma 
 ## Documentação e Modelagem do Sistema
 
 O projeto utilizou diferentes técnicas de Engenharia de Software para analisar o processo, definir os requisitos e representar a solução proposta.
