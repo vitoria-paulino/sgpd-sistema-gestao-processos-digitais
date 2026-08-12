@@ -33,21 +33,16 @@ O projeto foi desenvolvido a partir do levantamento e organização dos requisit
 * Python
 * SQL
 
-## Modelagem do sistema
+## Documentação e Modelagem do Sistema
 
-O projeto utilizou diferentes técnicas de modelagem para representar os processos, funcionalidades, estrutura e interações do sistema.
+O projeto utilizou diferentes técnicas de Engenharia de Software para analisar o processo, definir os requisitos e representar a solução proposta.
 
-- [BPMN — Fluxo do processo](./BPMN_Gestao_Processos.pdf)
+- [BPMN — Gestão de Processos](./BPMN_Gestao_Processos.pdf)
 - [Diagramas UML](./UML_SGPD.pdf)
 - [Diagrama de Classes](./Diagrama_Classes_SGPD.pdf)
 - [Diagrama de Sequência](./Diagrama_Sequencia_SGPD.pdf)
 - [Diagrama de Atividades](./Diagrama_Atividades_SGPD.pdf)
-
-  ### Protótipo
-
-O protótipo apresenta a proposta visual da solução e a organização das principais funcionalidades do sistema.
-
-[Visualizar protótipo do sistema](./Prototipo_SGPD.pdf)
+- [Protótipo do Sistema](./Prototipo_SGPD.pdf)
 
 Entre os artefatos desenvolvidos estão:
 
