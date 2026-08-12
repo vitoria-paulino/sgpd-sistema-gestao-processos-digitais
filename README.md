@@ -37,6 +37,12 @@ O projeto foi desenvolvido a partir do levantamento e organização dos requisit
 
 Durante o desenvolvimento foram utilizados conceitos de modelagem de sistemas para representar os processos e funcionalidades da solução.
 
+### BPMN
+
+A modelagem BPMN representa o fluxo do processo analisado no projeto.
+
+[Visualizar BPMN do processo](./BPMN_Gestao_Processos.pdf)
+
 Entre os artefatos desenvolvidos estão:
 
 * Modelagem BPMN
