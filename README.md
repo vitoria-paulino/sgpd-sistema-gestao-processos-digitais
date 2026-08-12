@@ -49,6 +49,12 @@ Foram utilizados diagramas UML para representar as funcionalidades e a estrutura
 
 [Visualizar diagramas UML](./UML_SGPD.pdf)
 
+### Diagrama de Classes
+
+O diagrama de classes representa a estrutura do sistema, suas principais entidades, atributos e relacionamentos.
+
+[Visualizar diagrama de classes](./Diagrama_Classes_SGPD.pdf)
+
 Entre os artefatos desenvolvidos estão:
 
 * Modelagem BPMN
