@@ -48,6 +48,7 @@ O projeto utilizou diferentes técnicas de modelagem para representar os process
 O protótipo apresenta a proposta visual da solução e a organização das principais funcionalidades do sistema.
 
 [Visualizar protótipo do sistema](./Prototipo_SGPD.pdf)
+https://www.figma.com/proto/H5bndsF16l7wYM6wAbAzrP/PROTOTIPO--RH?node-id=19-4&p=f&t=nyYvRjuxaMGOq5CH-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=30%3A75
 
 Entre os artefatos desenvolvidos estão:
 
