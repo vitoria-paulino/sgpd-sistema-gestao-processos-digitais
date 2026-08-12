@@ -55,6 +55,12 @@ O diagrama de classes representa a estrutura do sistema, suas principais entidad
 
 [Visualizar diagrama de classes](./Diagrama_Classes_SGPD.pdf)
 
+### Diagrama de Sequência
+
+O diagrama de sequência representa a interação entre os participantes e os componentes do sistema durante a execução de uma funcionalidade.
+
+[Visualizar diagrama de sequência](./Diagrama_Sequencia_SGPD.pdf)
+
 Entre os artefatos desenvolvidos estão:
 
 * Modelagem BPMN
