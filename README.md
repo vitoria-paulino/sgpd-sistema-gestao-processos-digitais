@@ -33,34 +33,16 @@ O projeto foi desenvolvido a partir do levantamento e organização dos requisit
 * Python
 * SQL
 
-## Modelagem
+## Modelagem do sistema
 
-Durante o desenvolvimento foram utilizados conceitos de modelagem de sistemas para representar os processos e funcionalidades da solução.
+O projeto utilizou diferentes técnicas de modelagem para representar os processos, funcionalidades, estrutura e interações do sistema.
 
-### BPMN
-
-A modelagem BPMN representa o fluxo do processo analisado no projeto.
-
-[Visualizar BPMN do processo](./BPMN_Gestao_Processos.pdf)
-
-### UML
-
-Foram utilizados diagramas UML para representar as funcionalidades e a estrutura do sistema.
-
-[Visualizar diagramas UML](./UML_SGPD.pdf)
-
-### Diagrama de Classes
-
-O diagrama de classes representa a estrutura do sistema, suas principais entidades, atributos e relacionamentos.
-
-[Visualizar diagrama de classes](./Diagrama_Classes_SGPD.pdf)
-
-### Diagrama de Sequência
-
-O diagrama de sequência representa a interação entre os participantes e os componentes do sistema durante a execução de uma funcionalidade.
-
-[Visualizar diagrama de sequência](./Diagrama_Sequencia_SGPD.pdf)
-
+- [BPMN — Fluxo do processo](./BPMN_Gestao_Processos.pdf)
+- [Diagramas UML](./UML_SGPD.pdf)
+- [Diagrama de Classes](./Diagrama_Classes_SGPD.pdf)
+- [Diagrama de Sequência](./Diagrama_Sequencia_SGPD.pdf)
+- [Diagrama de Atividades](./Diagrama_Atividades_SGPD.pdf)
+  
 Entre os artefatos desenvolvidos estão:
 
 * Modelagem BPMN
