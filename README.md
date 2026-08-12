@@ -42,7 +42,13 @@ O projeto utilizou diferentes técnicas de modelagem para representar os process
 - [Diagrama de Classes](./Diagrama_Classes_SGPD.pdf)
 - [Diagrama de Sequência](./Diagrama_Sequencia_SGPD.pdf)
 - [Diagrama de Atividades](./Diagrama_Atividades_SGPD.pdf)
-  
+
+  ### Protótipo
+
+O protótipo apresenta a proposta visual da solução e a organização das principais funcionalidades do sistema.
+
+[Visualizar protótipo do sistema](./Prototipo_SGPD.pdf)
+
 Entre os artefatos desenvolvidos estão:
 
 * Modelagem BPMN
