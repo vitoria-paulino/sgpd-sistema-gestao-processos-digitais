@@ -30,7 +30,7 @@ O projeto foi desenvolvido a partir do levantamento e organização dos requisit
 * UML
 * Prototipação de Sistemas
 * Análise e Modelagem de Processos
-
+* figma 
 ## Documentação e Modelagem do Sistema
 
 O projeto utilizou diferentes técnicas de Engenharia de Software para analisar o processo, definir os requisitos e representar a solução proposta.
