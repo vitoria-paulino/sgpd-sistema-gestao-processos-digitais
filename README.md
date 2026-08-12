@@ -30,8 +30,6 @@ O projeto foi desenvolvido a partir do levantamento e organização dos requisit
 * UML
 * Prototipação de Sistemas
 * Análise e Modelagem de Processos
-* Python
-* SQL
 
 ## Documentação e Modelagem do Sistema
 
